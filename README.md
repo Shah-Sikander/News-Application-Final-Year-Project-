@@ -1,6 +1,14 @@
-# fyp
+**##News Application - Final Year Project**
+This repository contains the code for my Final Year Project: a News Application built using Flutter and Dart. The app fetches news from various sources using APIs, allowing users to view and filter news by different categories.
 
-A new Flutter project.
+
+**Code Highlights:**
+Over 1000 lines of code written to implement all the app's features.
+Proper state management using Flutter's built-in tools.
+Clean and modular architecture for easy scalability.
+
+**Api for News**
+Get free api from here : https://newsapi.org/
 
 ## Getting Started
 
